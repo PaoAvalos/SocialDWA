@@ -1,2 +1,4 @@
 # SocialDWA
-Modifications to DWA base local planner for ROS1
+
+Modified Dynamic Window Approach local ROS planner. 
+
